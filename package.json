@@ -1,0 +1,27 @@
+{
+  "name": "chess-online-frontend",
+  "version": "1.0.0",
+  "description": "Online chess with matchmaking",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art-sn/chess-online-frontend.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "art-sn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art-sn/chess-online-frontend/issues"
+  },
+  "homepage": "https://github.com/art-sn/chess-online-frontend#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
